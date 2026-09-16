@@ -888,3 +888,30 @@ footer {
     }
 
 }
+
+/* ================= VIDEO THUMBNAIL ================= */
+
+.video-thumbnail {
+    width: 100%;
+    max-width: 760px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 14px;
+    margin-bottom: 30px;
+}
+
+.video-content {
+    text-align: center;
+}
+
+.video-content h3 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.video-content p {
+    max-width: 600px;
+    margin: 0 auto 25px;
+    color: #71818e;
+    font-size: 14px;
+}
