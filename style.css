@@ -139,15 +139,10 @@ img {
     font-weight: 800;
 }
 
-.logo-icon {
-    width: 34px;
-    height: 34px;
-    display: grid;
-    place-items: center;
-    border-radius: 9px;
-    background: #ff9800;
-    color: #07121c;
-    font-size: 16px;
+.logo img {
+    width: 38px;
+    height: 38px;
+    object-fit: contain;
 }
 
 .nav-content nav {
